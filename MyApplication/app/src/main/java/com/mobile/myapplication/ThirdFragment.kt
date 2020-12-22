@@ -13,7 +13,6 @@ import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.http.POST
 
-
 /**
  * A simple [Fragment] subclass as the third destination in the navigation.
  */
@@ -43,3 +42,5 @@ class ThirdFragment : Fragment() {
         }
 
     }
+
+
